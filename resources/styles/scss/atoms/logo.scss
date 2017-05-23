@@ -1,0 +1,7 @@
+.logo {
+  display: inline-block;
+  &__img {
+    display: block;
+    max-width: 100%;
+  }
+}
