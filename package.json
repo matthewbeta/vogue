@@ -1,0 +1,15 @@
+{
+  "name": "vogue",
+  "version": "0.0.0",
+  "description": "A tool for building styleguides",
+  "main": "./app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./app/index.js"
+  },
+  "author": "@matthewbeta",
+  "license": "ISC",
+  "dependencies": {
+    "twig": "^1.10.4"
+  }
+}

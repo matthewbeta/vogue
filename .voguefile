@@ -1,0 +1,9 @@
+{
+    "templateType"  : "twig",
+    "templatePath"  : "./templates",
+    "dataPath"      : "./data",
+    "stylePath"     : "./resources/styles/scss",
+    "buildPath"     : "./public/styleguide",
+    "cssUrl"        : "./public/assets/styles/style.min.css",
+    "jsUrl"         : "./public/assets/app.min.css"
+}
